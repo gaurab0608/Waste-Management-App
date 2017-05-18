@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Waste Management</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Waste Management</string>
+    <string name="title_activity_dry__waste">Dry Waste</string>
+    <string name="title_activity_wet__waste">Wet Waste</string>
+    <string name="title_activity_holiday_list">HolidayList</string>
+    <string name="title_activity_content_holiday__list">content_holiday__list</string>
+</resources>
